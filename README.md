@@ -252,7 +252,7 @@ can produce interpretable latent representations.
 * **Количество клеток:** ~3000
 * **Количество генов:** ~7000
 
----
+
 
 **Методология**
 
