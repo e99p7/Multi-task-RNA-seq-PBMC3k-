@@ -1,6 +1,3 @@
-# Multi-task-RNA-seq-PBMC3k-
-Multi-task training based on single-cell RNA-seq (PBMC3k) data
-
 **🧬 Multi-task Learning on Single-Cell RNA-seq (PBMC3k)**
 
 **Overview**
